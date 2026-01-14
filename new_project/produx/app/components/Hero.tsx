@@ -7,12 +7,6 @@ export default function Hero() {
     <section className="relative bg-white overflow-hidden py-20 lg:py-32">
       <div className="container mx-auto px-4">
         <div className="max-w-6xl mx-auto">
-          <div className="text-center mb-8">
-            <p className="text-sm font-semibold text-gray-600 mb-6">
-              Trusted by 200+ Companies
-            </p>
-          </div>
-          
           <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold text-gray-900 mb-6 leading-tight text-center">
             <span className="block">Technology Solutions</span>
             <span className="block bg-gradient-to-r from-purple-600 to-indigo-600 bg-clip-text text-transparent">
